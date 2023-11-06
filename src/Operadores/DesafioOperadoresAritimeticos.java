@@ -1,3 +1,5 @@
+package Operadores;
+
 public class DesafioOperadoresAritimeticos {
     public static void main(String[] args) {
         int um = 1;

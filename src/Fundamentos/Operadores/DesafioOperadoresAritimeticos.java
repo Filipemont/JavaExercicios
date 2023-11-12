@@ -1,4 +1,4 @@
-package Operadores;
+package Fundamentos.Operadores;
 
 public class DesafioOperadoresAritimeticos {
     public static void main(String[] args) {

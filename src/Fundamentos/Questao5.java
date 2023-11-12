@@ -1,3 +1,5 @@
+package Fundamentos;
+
 public class Questao5 {
     static void PrimeiroMetodo(){
         System.out.println("Inicio da execucao do primeiro metodo!");
